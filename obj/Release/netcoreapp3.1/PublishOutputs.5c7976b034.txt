@@ -1,0 +1,4 @@
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/bin/Release/netcoreapp3.1/publish/RetroBricksGame.dll
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/bin/Release/netcoreapp3.1/publish/RetroBricksGame.deps.json
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/bin/Release/netcoreapp3.1/publish/RetroBricksGame.runtimeconfig.json
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/bin/Release/netcoreapp3.1/publish/RetroBricksGame.pdb

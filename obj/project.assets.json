@@ -20,7 +20,7 @@
       "outputPath": "/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/saumitra/.config/NuGet/NuGet.Config"
+        "/Users/saumitra/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

@@ -1,0 +1,13 @@
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/bin/Release/netcoreapp3.1/RetroBricksGame.deps.json
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/bin/Release/netcoreapp3.1/RetroBricksGame.runtimeconfig.json
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/bin/Release/netcoreapp3.1/RetroBricksGame.runtimeconfig.dev.json
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/bin/Release/netcoreapp3.1/RetroBricksGame.dll
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/bin/Release/netcoreapp3.1/RetroBricksGame.pdb
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/obj/Release/netcoreapp3.1/RetroBricksGame.csproj.AssemblyReference.cache
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/obj/Release/netcoreapp3.1/RetroBricksGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/obj/Release/netcoreapp3.1/RetroBricksGame.AssemblyInfoInputs.cache
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/obj/Release/netcoreapp3.1/RetroBricksGame.AssemblyInfo.cs
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/obj/Release/netcoreapp3.1/RetroBricksGame.csproj.CoreCompileInputs.cache
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/obj/Release/netcoreapp3.1/RetroBricksGame.dll
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/obj/Release/netcoreapp3.1/RetroBricksGame.pdb
+/Users/saumitra/Desktop/Projects/VisualStudioProjects/RetroBricksGame/RetroBricksGame/obj/Release/netcoreapp3.1/RetroBricksGame.genruntimeconfig.cache
