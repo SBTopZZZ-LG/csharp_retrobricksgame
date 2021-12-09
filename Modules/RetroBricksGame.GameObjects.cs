@@ -10,6 +10,8 @@ namespace RetroBricksGame.GameObjects
         Ground
     }
 
+    // #
+    // ##
     public class L : Shape
     {
         public override int ComputeWidth()
@@ -19,6 +21,10 @@ namespace RetroBricksGame.GameObjects
 
         public L() : base(new Point(0, 1), new Point(1, 0)) { }
     }
+
+    // #
+    // #
+    // ##
     public class L_Tall : Shape
     {
         public override int ComputeWidth()
@@ -28,6 +34,10 @@ namespace RetroBricksGame.GameObjects
 
         public L_Tall() : base(new Point(0, 1), new Point(0, 2), new Point(1, 0)) { }
     }
+
+    //  #
+    //  #
+    // ##
     public class L_Tall_Inverted : Shape
     {
         public override int ComputeWidth()
@@ -37,6 +47,8 @@ namespace RetroBricksGame.GameObjects
 
         public L_Tall_Inverted() : base(new Point(0, 1), new Point(0, 2), new Point(-1, 0)) { }
     }
+
+    // ###
     public class Line : Shape
     {
         public override int ComputeWidth()
@@ -46,6 +58,9 @@ namespace RetroBricksGame.GameObjects
 
         public Line() : base(new Point(-1, 0), new Point(1, 0)) { }
     }
+
+    //  #
+    // ###
     public class Triangle : Shape
     {
         public override int ComputeWidth()
@@ -55,6 +70,10 @@ namespace RetroBricksGame.GameObjects
 
         public Triangle() : base(new Point(-1, 0), new Point(1, 0), new Point(0, 1)) { }
     }
+
+    //  #
+    // ###
+    //  #
     public class Plus : Shape
     {
         public override int ComputeWidth()
